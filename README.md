@@ -25,6 +25,7 @@ For portable use, download `Adjutant-Portable-<version>.zip`, extract the entire
 
 ### Follow your game
 - Adjutant reads your newest save after each autosave, in single player and multiplayer.
+- While you play, it shows HOI4's date and hour live, and your focus and spy operations count their days on between autosaves.
 - Completed focuses, decisions and missions are ticked off; focuses your campaign can no longer take drop out.
 - When a focus is blocked, it tells you why and what to click.
 
@@ -49,6 +50,6 @@ Older versions need a one-time manual installation of the latest version. Campai
 
 ## Privacy
 
-Adjutant works locally without an account. Updates use GitHub; The Dispatch loads official HOI4 news from Steam when opened. Game files and saves are read on your computer and are never uploaded or changed. No game artwork is bundled.
+Adjutant works locally without an account. Updates use GitHub; The Dispatch loads official HOI4 news from Steam when opened. Game files and saves are read on your computer and are never uploaded or changed. While it follows a game, Adjutant reads HOI4's date from the game's memory: it only reads, keeps nothing but the date, and can be turned off under **Campaign > Live game date**. No game artwork is bundled.
 
 Built by plataodomo. Copyright (c) 2026 plataodomo.
