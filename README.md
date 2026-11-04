@@ -18,7 +18,7 @@ For portable use, download `Adjutant-Portable-<version>.zip`, extract the entire
 ## Features
 
 ### Country guides
-- Numbered focus routes for 56 countries, with the research, decisions and events each step waits on.
+- Numbered focus routes for 57 countries, with the research, decisions and events each step waits on.
 - Government: which laws to pass, which advisors to hire, and which ones your path will dismiss.
 - Doctrines, occupation laws, spy agency plans, and Army, Navy and Air Force builds for the route.
 - Guides are checked against your installed HOI4, so a game update that changes a tree is flagged.
