@@ -11,7 +11,7 @@ A Windows companion for Hearts of Iron IV. Pick a country and get a numbered rou
 3. Open Adjutant from the Start menu or your desktop shortcut. Python is included.
 4. Choose a country guide, follow your game, or pick a quick build.
 
-Requires Windows x64 and a local Steam installation of HOI4. Adjutant plans for the base game; mods are not supported. All DLC are assumed. Checked against HOI4 1.19.4.
+Requires Windows x64 and a local Steam installation of HOI4. Adjutant plans for the base game; mods are not supported. All DLC are assumed. Checked against HOI4 1.19.5.
 
 For portable use, download `Adjutant-Portable-<version>.zip`, extract the entire ZIP into a folder you can write to, and open `Start Adjutant.cmd`.
 
